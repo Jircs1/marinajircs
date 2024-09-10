@@ -49,7 +49,7 @@
     "react": "^18.2.0",
     "react-combine-reducers": "^1.1.1",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^5.2.0",
+    "react-router-dom": "^6.0.0",
     "readable-stream": "^3.6.0",
     "scrypt-js": "^3.0.1",
     "slip77": "^0.2.0",
