@@ -32,7 +32,7 @@
     "bolt11": "^1.4.1",
     "buffer": "^6.0.3",
     "coinselect": "^3.1.13",
-    "crypto-browserify": "^3.12.0",
+    "crypto-browserify": "^3.12.1",
     "decimal.js": "^10.2.1",
     "ecpair": "^2.1.0",
     "formik": "^2.2.9",
